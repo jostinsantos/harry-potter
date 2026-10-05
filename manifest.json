@@ -1,0 +1,14 @@
+{
+  "id": "com.harrypotter.source",
+  "name": "Harry Potter Saga",
+  "version": "1.0.0",
+  "description": "Saga completa de Harry Potter (fuente VOD). IDs TMDB. Requiere clave hpKey para descifrar URLs.",
+  "resources": ["stream"],
+  "types": ["movie"],
+  "idPrefixes": ["tmdb"],
+  "entry": "index.js",
+  "logo": "logo.png",
+  "behaviorHints": {
+    "configurable": false
+  }
+}
